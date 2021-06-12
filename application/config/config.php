@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://macaroon.xyz/toko-macaron/';
+$config['base_url'] = 'http://toko-macaron.macaroons.xyz/';
 
 /*
 |--------------------------------------------------------------------------
